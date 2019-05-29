@@ -1,0 +1,43 @@
+invariant:
+- Age
+- Gender
+- Height
+- ICUType
+- Weight
+timeseries:
+- ALP
+- ALT
+- AST
+- Albumin
+- BUN
+- Bilirubin
+- Cholesterol
+- Creatinine
+- DiasABP
+- FiO2
+- GCS
+- Glucose
+- HCO3
+- HCT
+- HR
+- K
+- Lactate
+- MAP
+# - MechVent
+- Mg
+- NIDiasABP
+- NIMAP
+- NISysABP
+- Na
+- PaCO2
+- PaO2
+- Platelets
+- RespRate
+- SaO2
+- SysABP
+- Temp
+- TroponinI
+- TroponinT
+- Urine
+- WBC
+- pH

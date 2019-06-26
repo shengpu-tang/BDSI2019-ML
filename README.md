@@ -8,3 +8,4 @@
 | 4 - Clustering & Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/4%20-%20Clustering%20%26%20Classification.ipynb) |
 | 5 - Regularization in Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/5%20-%20Regularization%20in%20Classification.ipynb) |
 | 6 - SGD | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/6%20-%20SGD.ipynb) |
+| 7 - Model Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/7%20-%20Model%20Evaluation.ipynb) |

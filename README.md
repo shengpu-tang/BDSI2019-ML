@@ -14,3 +14,4 @@
 | A1 - Decision Boundary | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A1%20-%20Decision%20Boundary.ipynb) |
 | A2 - Backprop | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A2%20-%20Backprop.ipynb) |
 | A3 - More Neural Nets | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A3%20-%20More%20Neural%20Nets.ipynb) |
+| B - RNNs & LSTMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/B%20-%20RNNs%20%26%20LSTMs.ipynb) |

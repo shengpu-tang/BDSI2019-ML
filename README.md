@@ -14,5 +14,5 @@
 | A1 - Decision Boundary | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A1%20-%20Decision%20Boundary.ipynb) |
 | A2 - Backprop | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A2%20-%20Backprop.ipynb) |
 | A3 - More Neural Nets | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A3%20-%20More%20Neural%20Nets.ipynb) |
-| B1 - RNN_Sine_Wave | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/B1%20-%20RNN_Sine_Wave) |
+| B1 - RNN_Sine_Wave | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/B1%20-%20RNN_Sine_Wave.ipynb) |
 | B2 - Implement LSTM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/B2%20-%20Implement%20LSTMs.ipynb) |

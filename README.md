@@ -15,4 +15,7 @@
 | A2 - Backprop | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A2%20-%20Backprop.ipynb) |
 | A3 - More Neural Nets | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/A3%20-%20More%20Neural%20Nets.ipynb) |
 | B1 - RNN_Sine_Wave | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/B1%20-%20RNN_Sine_Wave.ipynb) |
-| B2 - Implement LSTM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/B2%20-%20Implement%20LSTMs.ipynb) |
+| B2 - Implement LSTMs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/B2%20-%20Implement%20LSTMs.ipynb) |
+| C1 - CNN_MNIST | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/C1%20-%20CNN_MNIST.ipynb) |
+| C2 - CNN_Sentiment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/C2%20-%20CNN_Sentiment.ipynb) |
+| C3 - Implement CNNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shengpu1126/BDSI2019-ML/blob/master/C3%20-%20Implement%20CNNs.ipynb) |
